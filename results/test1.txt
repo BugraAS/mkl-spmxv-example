@@ -1,0 +1,158 @@
+/matrices/pre2.mtx has 5959282 non-zeros, 659033 rows, 659033 columns
+/matrices/pre2.mtx Time taken: 2.682161
+/matrices/twotone.mtx has 1224224 non-zeros, 120750 rows, 120750 columns
+/matrices/twotone.mtx Time taken: 0.320526
+/matrices/hcircuit.mtx has 513072 non-zeros, 105676 rows, 105676 columns
+/matrices/hcircuit.mtx Time taken: 0.177924
+/matrices/scircuit.mtx has 958936 non-zeros, 170998 rows, 170998 columns
+/matrices/scircuit.mtx Time taken: 0.894499
+/matrices/xenon2.mtx has 3866688 non-zeros, 157464 rows, 157464 columns
+/matrices/xenon2.mtx Time taken: 1.400908
+/matrices/lung2.mtx has 492564 non-zeros, 109460 rows, 109460 columns
+/matrices/lung2.mtx Time taken: 0.164445
+/matrices/stomach.mtx has 3021648 non-zeros, 213360 rows, 213360 columns
+/matrices/stomach.mtx Time taken: 0.955203
+/matrices/torso1.mtx has 8516500 non-zeros, 116158 rows, 116158 columns
+/matrices/torso1.mtx Time taken: 3.314389
+/matrices/torso2.mtx has 1033473 non-zeros, 115967 rows, 115967 columns
+/matrices/torso2.mtx Time taken: 0.248336
+/matrices/torso3.mtx has 4429042 non-zeros, 259156 rows, 259156 columns
+/matrices/torso3.mtx Time taken: 1.528788
+/matrices/cage12.mtx has 2032536 non-zeros, 130228 rows, 130228 columns
+/matrices/cage12.mtx Time taken: 0.656998
+/matrices/cage13.mtx has 7479343 non-zeros, 445315 rows, 445315 columns
+/matrices/cage13.mtx Time taken: 3.343279
+/matrices/matrix_9.mtx has 2121550 non-zeros, 103430 rows, 103430 columns
+/matrices/matrix_9.mtx Time taken: 0.497493
+/matrices/matrix-new_3.mtx has 2678750 non-zeros, 125329 rows, 125329 columns
+/matrices/matrix-new_3.mtx Time taken: 0.906176
+/matrices/barrier2-10.mtx has 3897557 non-zeros, 115625 rows, 115625 columns
+/matrices/barrier2-10.mtx Time taken: 1.885236
+/matrices/barrier2-11.mtx has 3897557 non-zeros, 115625 rows, 115625 columns
+/matrices/barrier2-11.mtx Time taken: 1.884134
+/matrices/barrier2-12.mtx has 3897557 non-zeros, 115625 rows, 115625 columns
+/matrices/barrier2-12.mtx Time taken: 1.885792
+/matrices/barrier2-1.mtx has 3805068 non-zeros, 113076 rows, 113076 columns
+/matrices/barrier2-1.mtx Time taken: 1.825708
+/matrices/barrier2-2.mtx has 3805068 non-zeros, 113076 rows, 113076 columns
+/matrices/barrier2-2.mtx Time taken: 1.825820
+/matrices/barrier2-3.mtx has 3805068 non-zeros, 113076 rows, 113076 columns
+/matrices/barrier2-3.mtx Time taken: 1.840454
+/matrices/barrier2-4.mtx has 3805068 non-zeros, 113076 rows, 113076 columns
+/matrices/barrier2-4.mtx Time taken: 1.826843
+/matrices/barrier2-9.mtx has 3897557 non-zeros, 115625 rows, 115625 columns
+/matrices/barrier2-9.mtx Time taken: 1.871007
+/matrices/ohne2.mtx has 11063545 non-zeros, 181343 rows, 181343 columns
+/matrices/ohne2.mtx Time taken: 4.942652
+/matrices/para-10.mtx has 5416358 non-zeros, 155924 rows, 155924 columns
+/matrices/para-10.mtx Time taken: 2.801487
+/matrices/para-4.mtx has 5326228 non-zeros, 153226 rows, 153226 columns
+/matrices/para-4.mtx Time taken: 2.644085
+/matrices/para-5.mtx has 5416358 non-zeros, 155924 rows, 155924 columns
+/matrices/para-5.mtx Time taken: 2.691093
+/matrices/para-7.mtx has 5416358 non-zeros, 155924 rows, 155924 columns
+/matrices/para-7.mtx Time taken: 2.695729
+/matrices/para-8.mtx has 5416358 non-zeros, 155924 rows, 155924 columns
+/matrices/para-8.mtx Time taken: 2.694754
+/matrices/para-9.mtx has 5416358 non-zeros, 155924 rows, 155924 columns
+/matrices/para-9.mtx Time taken: 2.687233
+/matrices/language.mtx has 1216334 non-zeros, 399130 rows, 399130 columns
+/matrices/language.mtx Time taken: 1.237992
+/matrices/Hamrle3.mtx has 5514242 non-zeros, 1447360 rows, 1447360 columns
+/matrices/Hamrle3.mtx Time taken: 2.969739
+/matrices/dc1.mtx has 766396 non-zeros, 116835 rows, 116835 columns
+/matrices/dc1.mtx Time taken: 0.217497
+/matrices/dc2.mtx has 766396 non-zeros, 116835 rows, 116835 columns
+/matrices/dc2.mtx Time taken: 0.210825
+/matrices/dc3.mtx has 766396 non-zeros, 116835 rows, 116835 columns
+/matrices/dc3.mtx Time taken: 0.246193
+/matrices/trans4.mtx has 766396 non-zeros, 116835 rows, 116835 columns
+/matrices/trans4.mtx Time taken: 0.237095
+/matrices/trans5.mtx has 766396 non-zeros, 116835 rows, 116835 columns
+/matrices/trans5.mtx Time taken: 0.211751
+/matrices/rajat21.mtx has 1893370 non-zeros, 411676 rows, 411676 columns
+/matrices/rajat21.mtx Time taken: 1.116474
+/matrices/rajat24.mtx has 1948235 non-zeros, 358172 rows, 358172 columns
+/matrices/rajat24.mtx Time taken: 1.139064
+/matrices/rajat29.mtx has 4866270 non-zeros, 643994 rows, 643994 columns
+/matrices/rajat29.mtx Time taken: 2.765308
+/matrices/rajat30.mtx has 6175377 non-zeros, 643994 rows, 643994 columns
+/matrices/rajat30.mtx Time taken: 3.475115
+/matrices/ASIC_320k.mtx has 2635364 non-zeros, 321821 rows, 321821 columns
+/matrices/ASIC_320k.mtx Time taken: 1.246561
+/matrices/ASIC_320ks.mtx has 1827807 non-zeros, 321671 rows, 321671 columns
+/matrices/ASIC_320ks.mtx Time taken: 1.310184
+/matrices/ASIC_680k.mtx has 3871773 non-zeros, 682862 rows, 682862 columns
+/matrices/ASIC_680k.mtx Time taken: 1.967511
+/matrices/ASIC_680ks.mtx has 2329176 non-zeros, 682712 rows, 682712 columns
+/matrices/ASIC_680ks.mtx Time taken: 1.699945
+/matrices/FEM_3D_thermal2.mtx has 3489300 non-zeros, 147900 rows, 147900 columns
+/matrices/FEM_3D_thermal2.mtx Time taken: 1.208238
+/matrices/Baumann.mtx has 760631 non-zeros, 112211 rows, 112211 columns
+/matrices/Baumann.mtx Time taken: 0.243560
+/matrices/crashbasis.mtx has 1750416 non-zeros, 160000 rows, 160000 columns
+/matrices/crashbasis.mtx Time taken: 0.477642
+/matrices/majorbasis.mtx has 1750416 non-zeros, 160000 rows, 160000 columns
+/matrices/majorbasis.mtx Time taken: 0.427056
+/matrices/Raj1.mtx has 1302464 non-zeros, 263743 rows, 263743 columns
+/matrices/Raj1.mtx Time taken: 0.515301
+/matrices/hvdc2.mtx has 1347273 non-zeros, 189860 rows, 189860 columns
+/matrices/hvdc2.mtx Time taken: 0.874866
+/matrices/largebasis.mtx has 5560100 non-zeros, 440020 rows, 440020 columns
+/matrices/largebasis.mtx Time taken: 2.010843
+/matrices/tmt_unsym.mtx has 4584801 non-zeros, 917825 rows, 917825 columns
+/matrices/tmt_unsym.mtx Time taken: 1.976779
+/matrices/thermomech_dK.mtx has 2846228 non-zeros, 204316 rows, 204316 columns
+/matrices/thermomech_dK.mtx Time taken: 1.259520
+/matrices/atmosmodd.mtx has 8814880 non-zeros, 1270432 rows, 1270432 columns
+/matrices/atmosmodd.mtx Time taken: 3.696464
+/matrices/atmosmodj.mtx has 8814880 non-zeros, 1270432 rows, 1270432 columns
+/matrices/atmosmodj.mtx Time taken: 3.780378
+/matrices/atmosmodl.mtx has 10319760 non-zeros, 1489752 rows, 1489752 columns
+/matrices/atmosmodl.mtx Time taken: 4.476607
+/matrices/transient.mtx has 961790 non-zeros, 178866 rows, 178866 columns
+/matrices/transient.mtx Time taken: 0.370600
+/matrices/PR02R.mtx has 8185136 non-zeros, 161070 rows, 161070 columns
+/matrices/PR02R.mtx Time taken: 2.737073
+/matrices/RM07R.mtx has 37464962 non-zeros, 381689 rows, 381689 columns
+/matrices/RM07R.mtx Time taken: 13.954199
+/matrices/mac_econ_fwd500.mtx has 1273389 non-zeros, 206500 rows, 206500 columns
+/matrices/mac_econ_fwd500.mtx Time taken: 0.412571
+/matrices/webbase-1M.mtx has 3105536 non-zeros, 1000005 rows, 1000005 columns
+/matrices/webbase-1M.mtx Time taken: 2.515374
+/matrices/CoupCons3D.mtx has 22322336 non-zeros, 416800 rows, 416800 columns
+/matrices/CoupCons3D.mtx Time taken: 7.841613
+/matrices/ML_Laplace.mtx has 27689972 non-zeros, 377002 rows, 377002 columns
+/matrices/ML_Laplace.mtx Time taken: 10.201969
+/matrices/power197k.mtx has 3698357 non-zeros, 197156 rows, 197156 columns
+/matrices/power197k.mtx Time taken: 2.051838
+/matrices/Goodwin_095.mtx has 3226066 non-zeros, 100037 rows, 100037 columns
+/matrices/Goodwin_095.mtx Time taken: 1.022091
+/matrices/Goodwin_127.mtx has 5778545 non-zeros, 178437 rows, 178437 columns
+/matrices/Goodwin_127.mtx Time taken: 2.003698
+/matrices/imagesensor.mtx has 1893170 non-zeros, 118758 rows, 118758 columns
+/matrices/imagesensor.mtx Time taken: 0.478479
+/matrices/power9.mtx has 2512300 non-zeros, 155376 rows, 155376 columns
+/matrices/power9.mtx Time taken: 0.675901
+/matrices/radiation.mtx has 7637688 non-zeros, 223104 rows, 223104 columns
+/matrices/radiation.mtx Time taken: 3.896537
+/matrices/test1.mtx has 12968200 non-zeros, 392908 rows, 392908 columns
+/matrices/test1.mtx Time taken: 6.760848
+/matrices/ss1.mtx has 845089 non-zeros, 205282 rows, 205282 columns
+/matrices/ss1.mtx Time taken: 0.251292
+/matrices/nxp1.mtx has 2656177 non-zeros, 414604 rows, 414604 columns
+/matrices/nxp1.mtx Time taken: 2.441739
+/matrices/marine1.mtx has 6226538 non-zeros, 400320 rows, 400320 columns
+/matrices/marine1.mtx Time taken: 3.149130
+/matrices/cage14.mtx has 27130349 non-zeros, 1505785 rows, 1505785 columns
+/matrices/cage14.mtx Time taken: 11.764758
+/matrices/Transport.mtx has 23500731 non-zeros, 1602111 rows, 1602111 columns
+/matrices/Transport.mtx Time taken: 8.754202
+/matrices/nv2.mtx has 52728362 non-zeros, 1453908 rows, 1453908 columns
+/matrices/nv2.mtx Time taken: 39.058039
+/matrices/dgreen.mtx has 38259877 non-zeros, 1200611 rows, 1200611 columns
+/matrices/dgreen.mtx Time taken: 22.054981
+/matrices/ss.mtx has 34753577 non-zeros, 1652680 rows, 1652680 columns
+/matrices/ss.mtx Time taken: 13.446470
+/matrices/vas_stokes_1M.mtx has 34767207 non-zeros, 1090664 rows, 1090664 columns
+/matrices/vas_stokes_1M.mtx Time taken: 14.157642
