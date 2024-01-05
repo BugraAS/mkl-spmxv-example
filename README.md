@@ -10,7 +10,7 @@ cmake -Ssrc -Bbuild
 
 Compile the project
 ```bash
-cmake --build build --config Debug --target all
+cmake --build build --config Release --target all
 ```
 
 Run
